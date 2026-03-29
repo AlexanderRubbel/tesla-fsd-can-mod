@@ -1,3 +1,6 @@
+# credits to: Starmixcraft
+https://gitlab.com/Starmixcraft/tesla-fsd-can-mod
+
 # CanFeather – Tesla FSD CAN Bus Enabler
 
 > **Why is this public?** Some sellers — such as Michal Gapinski — charge up to 500 € for a solution like this. In our opinion, that is massively overpriced. The board costs around 20 €, and even with labor factored in, a fair price is no more than 50 €. This project exists so nobody has to overpay.
